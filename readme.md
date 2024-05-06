@@ -1,4 +1,4 @@
-<img src="https://github.com/kkamara/useful/blob/main/stickersmash.png?raw=true" alt="stickersmash.png" width=""/>
+<img src="https://github.com/kkamara/useful/blob/main/FlexboxDirectionMobileApp.png?raw=true" alt="FlexboxDirectionMobileApp.png" width=""/>
 
 # FlexboxDirectionMobileApp
 
