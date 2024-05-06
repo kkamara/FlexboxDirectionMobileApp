@@ -17,7 +17,7 @@ const HomePage = () => {
       <View
         style={[
           styles.boxContainer,
-          { marginTop: 200, flexDirection: "row", }
+          { marginTop: 220, flexDirection: "row", }
         ]}
       >
         <View style={styles.box}></View>
@@ -46,6 +46,7 @@ const styles = StyleSheet.create({
     borderColor: "#000",
     width: 50,
     height: 50,
+    margin: 10,
   }
 });
 
