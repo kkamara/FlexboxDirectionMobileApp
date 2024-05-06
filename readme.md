@@ -32,6 +32,8 @@ npm run android
 
 ## Misc
 
+This app was created with `npx create-expo-app FlexboxDirectionMobileApp --template` command and choosing the `Navigation (TypeScript)` template.
+
 [See MRVL Desktop.](https://github.com/kkamara/mrvl-desktop)
 
 [See MRVL Web.](https://github.com/kkamara/mrvl-web)
